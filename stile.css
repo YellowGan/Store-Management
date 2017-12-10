@@ -1,0 +1,193 @@
+body
+{
+	background-color:#666;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+}
+
+.main
+{
+	margin-left:11px;
+	margin-right: 17px;
+	background-color:#eee;
+	overflow:hidden;
+	color:#666;
+	text-align:center;
+	margin-top:15px;
+	position: fixed;
+}
+
+.title
+{
+	float:left;
+	margin-left:510px;
+	margin-right:450px;
+	margin-bottom: 10px;
+	height: 40px;
+	width: 300px;
+	text-align: center;
+	padding:5px 10px;
+	font-size:30px;
+	text-align: center;
+}
+
+.subtitle
+{
+	margin-top: 30px;
+	text-align: center;
+	font-size: 17px;
+	font-weight: bold;
+}
+
+.subtitle2
+{
+	margin-top: 30px;
+	text-align: center;
+	font-size: 15px;
+}
+
+.button
+{
+	height: 50px;
+	width: 120px;
+	border: 0px;
+	background-color: transparent;
+	border-radius: 15px;
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	font-size: 15px;
+	color: #5C5C5B;
+}
+button:hover
+{
+	background-color: white;
+}
+
+.content
+{
+	overflow:hidden;
+	padding-bottom:10px;
+}
+
+.col1
+{
+	width:150px;
+	float:left;
+	margin-left:10px;
+	margin-top:10px;
+}
+
+.col2
+{
+	margin-left:170px;
+	padding-top:40px;
+	background-color:#fafafa;
+	margin-right:170px;
+	margin-top:10px;
+	padding-bottom:20px;
+	height:440px;
+	overflow: auto;
+}
+
+.col3
+{
+	width:150px;
+	float:right;
+	margin-right:10px;
+	margin-top:10px;
+}
+
+.header
+{
+	background-color:#fff;
+	height:50px;
+	overflow:hidden;
+	text-align:center;
+}
+
+.copy
+{
+	text-align:right;
+	border-top:1px solid #fff;
+	padding-top:10px;
+	padding-right:10px;
+	clear:both;
+	background-color:#666;
+	color:#fff;
+	height:64px;
+}
+
+a
+{
+	text-decoration:none;
+	color:#ccc;
+}
+
+table
+{
+	margin-top: 10px;
+	border: 0px;
+	border-collapse: collapse;
+}
+th
+{
+	background-color: grey;
+	border-top: 0px;
+}
+tr
+{
+  background-color: #eee;
+  color: black;
+}
+tr:hover
+{
+    background-color: white;
+}
+#headertabright
+{
+	background-color: grey;
+	border: 0px;
+	border-top-right-radius: 20px;
+}
+#headertableft
+{
+	background-color: grey;
+	border: 0px;
+	border-top-left-radius: 20px;
+}
+#headerriga
+{
+	background-color: transparent;
+}
+
+.pulsanti
+{
+	margin-top: -30px;
+}
+#pulsante
+{
+	margin-top: -25px;
+	margin-right: 35px;
+	text-align: right;	
+}
+
+#cerca
+{
+	margin-top: -25px;
+	margin-left: 35px;
+	text-align: left;
+}
+
+fieldset
+{
+	width: 30%;
+	background-color: grey;
+	border-radius: 15px;
+	border: 0px;
+}
+
+#buy
+{
+	width: 80%;
+	background-color: grey;
+	border-radius: 15px;
+	border: 0px;
+}
